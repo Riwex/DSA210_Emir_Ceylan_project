@@ -4,57 +4,64 @@ Does Sunshine Bring Happiness? A Global Analysis of Climate and Well-Being
 
 # Overview
 
-There is a universal link between sun/sunny days with happiness and rain with sadness/melancohly. We can even see it in kid books with smiling big suns and crying rainy clouds. I decided put that understanding to test. 
+There's a universal cultural link between sunshine and happiness and rain with sadness or melancholy. We see this idea even in kid books with smiling suns and crying rainy clouds. I decided put that understanding to test. 
 This projects investigates that idea by analyzing the avarage number of sunny days and avarage yearly temperatures correlation to the Hapiness Index score of countries.By combining meteorological and social data, we aim to uncover whether sunlight, climate, and happiness are truly connected or if economic and social factors dominate.
 
-# Data Sources
+## Motivation
 
-    World Happiness Report (2023–2024)
+Understanding how sunlight and temperature affect mental well-being can help shape **healthier urban environments**.  
+If sunshine truly contributes to happiness, urban planners and architects could prioritize natural light exposure when designing cities, offices, and living spaces.
 
-Contains Happiness Index, GDP per capita, social support, freedom, corruption, and generosity by country.
-Source: https://worldhappiness.report
+## Data Sources
 
-    Average Annual Sunshine & Temperature Data
+   ### World Happiness Report (2023–2024)
 
-From NOAA, Meteostat, or Our World in Data Climate Dataset
-Example dataset: https://datahub.io/core/global-temp or https://meteostat.net
+   - Contains Happiness Index, GDP per capita, social support, freedom, corruption, and generosity by country.
+   - Source: https://worldhappiness.report
 
-    (Optional) Population Density or Latitude Data
+   ### Average Annual Sunshine & Temperature Data
 
-To explore whether latitude or urbanization affects happiness.
+   - From NOAA, Meteostat, or Our World in Data Climate Dataset
+   - Example dataset: https://datahub.io/core/global-temp or https://meteostat.net
 
-# Methods and Analysis Plan
+   ### (Optional) Population Density or Latitude Data
 
-Data Cleaning
-Normalize country names across datasets. Handle missing values for temperature/sunshine.
+    -To explore whether latitude or urbanization affects happiness.
 
-Exploratory Data Analysis (EDA)
-Summary statistics (mean, variance). Correlation heatmap (happiness vs. temperature, GDP, sunshine). Scatter plots and boxplots per region.
+## Methods and Analysis Plan
 
-Statistical Analysis
-Compute Pearson correlation between happiness and sunshine/temperature.Conduct regression analysis:
+### Data Cleaning
+- Normalize country names across datasets. 
+- Handle missing values for temperature/sunshine.
 
-Model 1: Happiness ~ Temperature
-Model 2: Happiness ~ Temperature + GDP + Freedom (to see indirect effects).
+###Exploratory Data Analysis (EDA)
+- Summary statistics (mean, variance). 
+- Correlation heatmap (happiness vs. temperature, GDP, sunshine). Scatter plots and boxplots per region.
 
-Visualization
+### Statistical Analysis
+- Compute Pearson correlation between happiness and sunshine/temperature.- Conduct regression analysis:
 
-World choropleth map showing happiness vs. average sunlight.
-Scatter plots with regression lines.
+    - Model 1: Happiness ~ Temperature
+    - Model 2: Happiness ~ Temperature + GDP + Freedom (to see indirect effects).
 
-Machine Learning 
-Train a regression model to predict happiness score based on climate and socio-economic features.
+### Visualization
 
-# Expected Findings
+- World choropleth map showing happiness vs. average sunlight.
+- Scatter plots with regression lines.
 
-A positive correlation between happiness and moderate sunlight (too cold or too hot may lower scores).
+### Machine Learning 
+- Train a regression model to predict happiness score based on climate and socio-economic features.
 
-Wealthier or socially free countries may show higher happiness even with less sunshine, revealing hidden confounders.
+## Expected Findings
 
-Visualization may show that mid-latitude countries (e.g., Spain, Italy, Australia) score higher than extremes (e.g., Norway or India).
+- A positive correlation between happiness and moderate sunlight (too cold or too hot may lower scores).
 
-# Tools
-Python (Pandas, NumPy, Seaborn, Plotly, Scikit-learn)
-Jupyter Notebook for analysis
-GitHub for code versioning
-(Optional) APIs: Meteostat API, Open-Meteo API
+- Wealthier or socially free countries may show higher happiness even with less sunshine, revealing hidden confounders.
+
+- Visualization may show that mid-latitude countries (e.g., Spain, Italy, Australia) score higher than extremes (e.g., Norway or India).
+
+## Tools
+- Python (Pandas, NumPy, Seaborn, Plotly, Scikit-learn)
+- Jupyter Notebook for analysis
+- GitHub for code versioning
+- (Optional) APIs: Meteostat API, Open-Meteo API
