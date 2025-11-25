@@ -1,9 +1,9 @@
-Python Libraries:
-    pandas
-    numpy
-    seaborn
-    matplotlib
-    plotly
-    scikit-learn
-    meteostat
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+scikit-learn
+meteostat
+openpyxl
 

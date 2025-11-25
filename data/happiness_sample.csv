@@ -1,0 +1,101 @@
+MuiDataGrid-cell,flag_icon src,MuiChip-label href,MuiChip-label,MuiDataGrid-cell 2,MuiDataGrid-cell 3,MuiDataGrid-cell 4,MuiDataGrid-cell 5,MuiDataGrid-cell 6,MuiDataGrid-cell 7,MuiDataGrid-cell 8,MuiDataGrid-cell 9,MuiDataGrid-cell 10,MuiDataGrid-cell 11,MuiDataGrid-cell 12,MuiDataGrid-cell 13,MuiDataGrid-cell 14,MuiDataGrid-cell 15
+1,https://data.worldhappiness.report/images/flags_iso_3/FIN.png,https://data.worldhappiness.report/country/FIN,Finland,7.736,0.347,2,2,15,18,4,56,2,25,7,56,75.0,77
+2,https://data.worldhappiness.report/images/flags_iso_3/DNK.png,https://data.worldhappiness.report/country/DNK,Denmark,7.521,−0.172,28,4,5,15,10,31,4,11,35,31,60.0,70
+3,https://data.worldhappiness.report/images/flags_iso_3/ISL.png,https://data.worldhappiness.report/country/ISL,Iceland,7.515,0.160,5,1,8,4,3,5,31,8,8,5,66.0,102
+4,https://data.worldhappiness.report/images/flags_iso_3/SWE.png,https://data.worldhappiness.report/country/SWE,Sweden,7.345,−0.135,11,27,12,7,21,20,5,23,24,20,78.0,71
+5,https://data.worldhappiness.report/images/flags_iso_3/NLD.png,https://data.worldhappiness.report/country/NLD,Netherlands,7.306,−0.206,1,28,6,-,41,9,11,41,34,9,46.0,128
+6,https://data.worldhappiness.report/images/flags_iso_3/CRI.png,https://data.worldhappiness.report/country/CRI,Costa Rica,7.274,0.017,58,36,50,29,13,115,70,9,75,115,84.0,60
+7,https://data.worldhappiness.report/images/flags_iso_3/NOR.png,https://data.worldhappiness.report/country/NOR,Norway,7.262,−0.393,17,19,2,5,17,18,8,29,46,18,25.0,92
+8,https://data.worldhappiness.report/images/flags_iso_3/ISR.png,https://data.worldhappiness.report/country/ISR,Israel,7.234,−0.067,15,13,25,9,87,19,32,100,80,19,49.0,63
+9,https://data.worldhappiness.report/images/flags_iso_3/LUX.png,https://data.worldhappiness.report/country/LUX,Luxembourg,7.122,0.068,-,-,-,-,-,-,-,-,-,-,,-
+10,https://data.worldhappiness.report/images/flags_iso_3/MEX.png,https://data.worldhappiness.report/country/MEX,Mexico,6.979,−0.109,71,61,57,79,27,104,59,6,14,104,81.0,44
+11,https://data.worldhappiness.report/images/flags_iso_3/AUS.png,https://data.worldhappiness.report/country/AUS,Australia,6.974,−0.376,36,42,13,12,49,22,19,51,72,22,40.0,28
+12,https://data.worldhappiness.report/images/flags_iso_3/NZL.png,https://data.worldhappiness.report/country/NZL,New Zealand,6.952,−0.269,32,24,24,17,32,25,6,26,45,25,27.0,41
+13,https://data.worldhappiness.report/images/flags_iso_3/CHE.png,https://data.worldhappiness.report/country/CHE,Switzerland,6.935,−0.715,3,20,3,6,20,12,3,54,13,12,52.0,126
+14,https://data.worldhappiness.report/images/flags_iso_3/BEL.png,https://data.worldhappiness.report/country/BEL,Belgium,6.91,−0.057,4,31,11,20,26,48,14,58,37,48,61.0,114
+15,https://data.worldhappiness.report/images/flags_iso_3/IRL.png,https://data.worldhappiness.report/country/IRL,Ireland,6.889,−0.187,8,22,1,16,33,3,10,50,44,3,24.0,76
+16,https://data.worldhappiness.report/images/flags_iso_3/LTU.png,https://data.worldhappiness.report/country/LTU,Lithuania,6.829,1.403,27,3,27,52,62,92,87,69,20,92,115.0,84
+17,https://data.worldhappiness.report/images/flags_iso_3/AUT.png,https://data.worldhappiness.report/country/AUT,Austria,6.81,−0.559,18,25,10,19,54,7,18,62,32,7,48.0,85
+18,https://data.worldhappiness.report/images/flags_iso_3/CAN.png,https://data.worldhappiness.report/country/CAN,Canada,6.803,−0.674,44,35,16,21,68,27,15,56,92,27,22.0,43
+19,https://data.worldhappiness.report/images/flags_iso_3/SVN.png,https://data.worldhappiness.report/country/SVN,Slovenia,6.792,0.732,29,6,23,23,8,40,79,95,57,40,33.0,123
+20,https://data.worldhappiness.report/images/flags_iso_3/CZE.png,https://data.worldhappiness.report/country/CZE,Czechia,6.775,0.485,34,9,26,36,31,44,73,34,71,44,57.0,61
+21,https://data.worldhappiness.report/images/flags_iso_3/ARE.png,https://data.worldhappiness.report/country/ARE,United Arab Emirates,6.759,−0.385,63,92,7,30,14,23,80,58,23,14,68.0,
+22,https://data.worldhappiness.report/images/flags_iso_3/DEU.png,https://data.worldhappiness.report/country/DEU,Germany,6.753,0.081,31,37,9,24,56,14,9,67,40,14,47.0,73
+23,https://data.worldhappiness.report/images/flags_iso_3/GBR.png,https://data.worldhappiness.report/country/GBR,United Kingdom,6.728,−0.155,7,44,20,25,35,6,16,45,49,6,36.0,91
+24,https://data.worldhappiness.report/images/flags_iso_3/USA.png,https://data.worldhappiness.report/country/USA,United States,6.724,−0.358,13,12,4,56,115,16,37,30,51,16,15.0,22
+25,https://data.worldhappiness.report/images/flags_iso_3/BLZ.png,https://data.worldhappiness.report/country/BLZ,Belize,6.711,99,57,83,1,-,96,92,13,16,96,37,21.0,-
+26,https://data.worldhappiness.report/images/flags_iso_3/POL.png,https://data.worldhappiness.report/country/POL,Poland,6.673,0.851,6,34,30,40,37,114,52,113,5,114,126.0,141
+27,https://data.worldhappiness.report/images/flags_iso_3/TWN.png,https://data.worldhappiness.report/country/TWN,Taiwan Province of China,6.669,0.448,33,33,74,-,34,42,53,4,34,106,86.0,-
+28,https://data.worldhappiness.report/images/flags_iso_3/URY.png,https://data.worldhappiness.report/country/URY,Uruguay,6.661,0.306,48,17,46,45,18,83,29,27,60,83,105.0,40
+29,https://data.worldhappiness.report/images/flags_iso_3/XKX.png,https://data.worldhappiness.report/country/XKX,Kosovo,6.659,1.437,41,70,77,-,28,17,69,74,1,17,130.0,51
+30,https://data.worldhappiness.report/images/flags_iso_3/KWT.png,https://data.worldhappiness.report/country/KWT,Kuwait,6.629,0.114,125,87,29,-,42,41,91,94,41,110,27.0,-
+31,https://data.worldhappiness.report/images/flags_iso_3/SRB.png,https://data.worldhappiness.report/country/SRB,Serbia,6.606,1.793,45,29,51,57,66,36,61,117,26,36,137.0,129
+32,https://data.worldhappiness.report/images/flags_iso_3/SAU.png,https://data.worldhappiness.report/country/SAU,Saudi Arabia,6.6,0.120,65,59,17,38,35,43,38,35,90,47,,-
+33,https://data.worldhappiness.report/images/flags_iso_3/FRA.png,https://data.worldhappiness.report/country/FRA,France,6.593,−0.171,10,41,18,14,84,45,22,76,47,45,38.0,130
+34,https://data.worldhappiness.report/images/flags_iso_3/SGP.png,https://data.worldhappiness.report/country/SGP,Singapore,6.565,0.019,16,53,55,1,24,1,60,28,24,30,65.0,-
+35,https://data.worldhappiness.report/images/flags_iso_3/ROU.png,https://data.worldhappiness.report/country/ROU,Romania,6.563,1.530,46,81,34,58,38,117,126,70,55,117,135.0,107
+36,https://data.worldhappiness.report/images/flags_iso_3/BRA.png,https://data.worldhappiness.report/country/BRA,Brazil,6.494,−0.355,79,56,62,75,59,71,66,49,90,71,88.0,50
+37,https://data.worldhappiness.report/images/flags_iso_3/SLV.png,https://data.worldhappiness.report/country/SLV,El Salvador,6.492,0.683,98,100,86,73,11,133,20,16,76,133,86.0,118
+38,https://data.worldhappiness.report/images/flags_iso_3/ESP.png,https://data.worldhappiness.report/country/ESP,Spain,6.466,0.144,9,16,22,8,88,32,33,78,89,32,79.0,48
+39,https://data.worldhappiness.report/images/flags_iso_3/EST.png,https://data.worldhappiness.report/country/EST,Estonia,6.417,0.991,30,23,35,32,52,39,13,32,25,39,73.0,95
+40,https://data.worldhappiness.report/images/flags_iso_3/ITA.png,https://data.worldhappiness.report/country/ITA,Italy,6.415,0.394,19,52,19,13,103,89,112,103,62,89,100.0,119
+41,https://data.worldhappiness.report/images/flags_iso_3/PAN.png,https://data.worldhappiness.report/country/PAN,Panama,6.407,−0.736,93,38,41,33,44,124,116,3,48,124,102.0,111
+42,https://data.worldhappiness.report/images/flags_iso_3/ARG.png,https://data.worldhappiness.report/country/ARG,Argentina,6.397,−0.165,38,21,52,49,47,112,75,28,59,112,111.0,55
+43,https://data.worldhappiness.report/images/flags_iso_3/KAZ.png,https://data.worldhappiness.report/country/KAZ,Kazakhstan,6.378,0.707,25,18,42,77,57,49,64,119,3,49,116.0,136
+44,https://data.worldhappiness.report/images/flags_iso_3/GTM.png,https://data.worldhappiness.report/country/GTM,Guatemala,6.362,0.397,131,94,84,-,22,106,74,2,85,106,45.0,96
+45,https://data.worldhappiness.report/images/flags_iso_3/CHL.png,https://data.worldhappiness.report/country/CHL,Chile,6.361,−0.226,53,43,47,28,63,75,85,21,73,75,104.0,31
+46,https://data.worldhappiness.report/images/flags_iso_3/VNM.png,https://data.worldhappiness.report/country/VNM,Viet Nam,6.352,0.819,20,49,78,41,2,129,39,48,2,129,123.0,98
+47,https://data.worldhappiness.report/images/flags_iso_3/NIC.png,https://data.worldhappiness.report/country/NIC,Nicaragua,6.33,0.823,112,60,98,50,39,82,17,14,91,82,51.0,82
+48,https://data.worldhappiness.report/images/flags_iso_3/MLT.png,https://data.worldhappiness.report/country/MLT,Malta,6.316,0.352,43,26,50,11,15,67,88,109,15,53,103.0,-
+49,https://data.worldhappiness.report/images/flags_iso_3/THA.png,https://data.worldhappiness.report/country/THA,Thailand,6.222,−0.149,67,50,59,37,16,8,120,12,36,8,74.0,87
+50,https://data.worldhappiness.report/images/flags_iso_3/SVK.png,https://data.worldhappiness.report/country/SVK,Slovakia,6.221,0.252,12,5,37,47,80,80,95,83,33,80,97.0,133
+51,https://data.worldhappiness.report/images/flags_iso_3/LVA.png,https://data.worldhappiness.report/country/LVA,Latvia,6.207,1.161,39,8,38,59,64,66,88,73,53,66,122.0,124
+52,https://data.worldhappiness.report/images/flags_iso_3/OMN.png,https://data.worldhappiness.report/country/OMN,Oman,6.197,−0.656,121,71,40,-,25,29,37,43,29,77,17.0,-
+53,https://data.worldhappiness.report/images/flags_iso_3/UZB.png,https://data.worldhappiness.report/country/UZB,Uzbekistan,6.193,0.570,87,30,90,65,6,33,27,22,42,33,113.0,109
+54,https://data.worldhappiness.report/images/flags_iso_3/PRY.png,https://data.worldhappiness.report/country/PRY,Paraguay,6.172,0.393,110,32,72,84,30,84,108,5,41,84,29.0,53
+55,https://data.worldhappiness.report/images/flags_iso_3/JPN.png,https://data.worldhappiness.report/country/JPN,Japan,6.147,0.083,47,48,28,2,79,130,41,64,9,130,103.0,142
+56,https://data.worldhappiness.report/images/flags_iso_3/BIH.png,https://data.worldhappiness.report/country/BIH,Bosnia and Herzegovina,6.136,1.323,66,47,60,46,89,28,124,96,69,28,120.0,117
+57,https://data.worldhappiness.report/images/flags_iso_3/PHL.png,https://data.worldhappiness.report/country/PHL,Philippines,6.107,1.122,104,68,89,93,19,91,78,7,103,91,4.0,20
+58,https://data.worldhappiness.report/images/flags_iso_3/KOR.png,https://data.worldhappiness.report/country/KOR,Republic of Korea,6.038,−0.229,69,84,21,3,104,55,54,111,70,55,83.0,108
+59,https://data.worldhappiness.report/images/flags_iso_3/BHR.png,https://data.worldhappiness.report/country/BHR,Bahrain,6.03,0.718,108,76,14,-,15,30,66,84,30,64,37.0,
+60,https://data.worldhappiness.report/images/flags_iso_3/PRT.png,https://data.worldhappiness.report/country/PRT,Portugal,6.013,0.912,57,51,32,22,40,111,122,82,83,111,118.0,112
+61,https://data.worldhappiness.report/images/flags_iso_3/COL.png,https://data.worldhappiness.report/country/COL,Colombia,6.004,−0.412,105,55,66,44,73,131,110,15,64,131,112.0,122
+62,https://data.worldhappiness.report/images/flags_iso_3/ECU.png,https://data.worldhappiness.report/country/ECU,Ecuador,5.965,0.100,84,97,76,51,70,122,91,10,110,122,107.0,121
+63,https://data.worldhappiness.report/images/flags_iso_3/HND.png,https://data.worldhappiness.report/country/HND,Honduras,5.964,0.822,128,95,103,90,45,69,96,19,86,69,50.0,42
+64,https://data.worldhappiness.report/images/flags_iso_3/MYS.png,https://data.worldhappiness.report/country/MYS,Malaysia,5.955,0.195,76,91,45,55,9,11,72,36,54,11,23.0,62
+65,https://data.worldhappiness.report/images/flags_iso_3/PER.png,https://data.worldhappiness.report/country/PER,Peru,5.947,0.171,89,78,73,69,91,128,129,20,112,128,101.0,113
+66,https://data.worldhappiness.report/images/flags_iso_3/RUS.png,https://data.worldhappiness.report/country/RUS,Russian Federation,5.945,0.481,75,65,33,83,101,58,65,112,19,58,85.0,72
+67,https://data.worldhappiness.report/images/flags_iso_3/CYP.png,https://data.worldhappiness.report/country/CYP,Cyprus,5.942,−0.524,55,88,122,10,67,128,87,97,67,65,79.0,-
+68,https://data.worldhappiness.report/images/flags_iso_3/CHN.png,https://data.worldhappiness.report/country/CHN,China,5.921,0.943,85,98,56,26,65,105,68,27,105,80,131.0,-
+69,https://data.worldhappiness.report/images/flags_iso_3/HUN.png,https://data.worldhappiness.report/country/HUN,Hungary,5.915,1.140,50,7,36,48,117,57,115,90,31,57,119.0,35
+70,https://data.worldhappiness.report/images/flags_iso_3/TTO.png,https://data.worldhappiness.report/country/TTO,Trinidad and Tobago,5.905,−0.614,82,58,82,-,38,133,24,104,38,31,5.0,-
+71,https://data.worldhappiness.report/images/flags_iso_3/MNE.png,https://data.worldhappiness.report/country/MNE,Montenegro,5.877,0.578,26,39,48,-,61,99,44,124,65,99,138.0,137
+72,https://data.worldhappiness.report/images/flags_iso_3/HRV.png,https://data.worldhappiness.report/country/HRV,Croatia,5.87,0.209,23,10,31,31,124,119,97,106,39,119,129.0,139
+73,https://data.worldhappiness.report/images/flags_iso_3/JAM.png,https://data.worldhappiness.report/country/JAM,Jamaica,5.87,0.496,-,-,-,76,-,-,-,-,-,-,,-
+74,https://data.worldhappiness.report/images/flags_iso_3/BOL.png,https://data.worldhappiness.report/country/BOL,Bolivia,5.868,0.011,96,86,92,98,76,127,98,42,123,127,96.0,116
+75,https://data.worldhappiness.report/images/flags_iso_3/KGZ.png,https://data.worldhappiness.report/country/KGZ,Kyrgyzstan,5.858,0.816,24,14,102,64,5,42,77,81,17,42,67.0,56
+76,https://data.worldhappiness.report/images/flags_iso_3/DOM.png,https://data.worldhappiness.report/country/DOM,Dominican Republic,5.846,0.883,133,46,53,63,36,101,34,31,63,101,41.0,36
+77,https://data.worldhappiness.report/images/flags_iso_3/MNG.png,https://data.worldhappiness.report/country/MNG,Mongolia,5.833,0.999,54,11,69,80,113,26,107,110,10,26,21.0,135
+78,https://data.worldhappiness.report/images/flags_iso_3/MUS.png,https://data.worldhappiness.report/country/MUS,Mauritius,5.832,0.355,81,62,49,61,71,70,46,55,6,70,35.0,99
+79,https://data.worldhappiness.report/images/flags_iso_3/LBY.png,https://data.worldhappiness.report/country/LBY,Libya,5.82,0.480,56,82,81,-,77,77,23,105,81,77,99.0,90
+80,https://data.worldhappiness.report/images/flags_iso_3/MDA.png,https://data.worldhappiness.report/country/MDA,Republic of Moldova,5.819,0.028,60,72,70,81,51,116,125,93,78,116,121.0,78
+81,https://data.worldhappiness.report/images/flags_iso_3/GRC.png,https://data.worldhappiness.report/country/GRC,Greece,5.776,0.341,59,77,39,27,136,132,113,109,96,132,82.0,83
+82,https://data.worldhappiness.report/images/flags_iso_3/VEN.png,https://data.worldhappiness.report/country/VEN,Venezuela,5.683,−1.356,97,89,102,74,88,36,35,108,88,9,2.0,-
+83,https://data.worldhappiness.report/images/flags_iso_3/IDN.png,https://data.worldhappiness.report/country/IDN,Indonesia,5.617,0.269,100,74,75,85,24,1,123,4,77,1,1.0,46
+84,https://data.worldhappiness.report/images/flags_iso_3/DZA.png,https://data.worldhappiness.report/country/DZA,Algeria,5.571,0.149,22,69,74,39,75,123,131,30,123,127,69.0,-
+85,https://data.worldhappiness.report/images/flags_iso_3/BGR.png,https://data.worldhappiness.report/country/BGR,Bulgaria,5.554,1.573,40,15,44,71,83,85,130,108,15,85,141.0,104
+86,https://data.worldhappiness.report/images/flags_iso_3/MKD.png,https://data.worldhappiness.report/country/MKD,North Macedonia,5.503,0.929,51,54,54,60,119,46,131,135,61,46,133.0,132
+87,https://data.worldhappiness.report/images/flags_iso_3/ARM.png,https://data.worldhappiness.report/country/ARM,Armenia,5.494,1.178,70,93,61,53,60,136,51,128,138,136,134.0,97
+88,https://data.worldhappiness.report/images/flags_iso_3/HKG.png,https://data.worldhappiness.report/country/HKG,Hong Kong SAR of China,5.491,−0.032,21,64,90,-,54,7,120,18,54,89,115.0,-
+89,https://data.worldhappiness.report/images/flags_iso_3/ALB.png,https://data.worldhappiness.report/country/ALB,Albania,5.411,−0.139,95,111,65,35,34,72,114,115,87,72,140.0,105
+90,https://data.worldhappiness.report/images/flags_iso_3/TJK.png,https://data.worldhappiness.report/country/TJK,Tajikistan,5.411,1.031,14,40,112,67,134,12,39,23,134,11,58.0,
+91,https://data.worldhappiness.report/images/flags_iso_3/GEO.png,https://data.worldhappiness.report/country/GEO,Georgia,5.4,1.213,49,85,55,70,48,141,43,114,11,141,98.0,67
+92,https://data.worldhappiness.report/images/flags_iso_3/NPL.png,https://data.worldhappiness.report/country/NPL,Nepal,5.311,1.155,116,105,110,89,78,76,93,138,100,76,55.0,100
+93,https://data.worldhappiness.report/images/flags_iso_3/LAO.png,https://data.worldhappiness.report/country/LAO,Lao PDR,5.301,0.514,90,119,97,87,29,43,28,65,82,43,117.0,138
+94,https://data.worldhappiness.report/images/flags_iso_3/TUR.png,https://data.worldhappiness.report/country/TUR,Türkiye,5.262,−0.083,37,73,43,42,140,107,94,142,101,107,128.0,120
+95,https://data.worldhappiness.report/images/flags_iso_3/ZAF.png,https://data.worldhappiness.report/country/ZAF,South Africa,5.213,0.250,127,80,79,114,96,121,106,46,56,121,76.0,74
+96,https://data.worldhappiness.report/images/flags_iso_3/MOZ.png,https://data.worldhappiness.report/country/MOZ,Mozambique,5.19,0.219,140,102,133,117,100,97,38,99,127,97,34.0,81
+97,https://data.worldhappiness.report/images/flags_iso_3/GAB.png,https://data.worldhappiness.report/country/GAB,Gabon,5.12,1.006,111,99,64,101,99,110,84,92,130,110,108.0,11
+98,https://data.worldhappiness.report/images/flags_iso_3/CIV.png,https://data.worldhappiness.report/country/CIV,Côte d’Ivoire,5.102,106,133,101,112,-,79,40,71,106,79,72,26.0,-
+99,https://data.worldhappiness.report/images/flags_iso_3/IRN.png,https://data.worldhappiness.report/country/IRN,Iran,5.093,0.450,78,75,71,54,132,13,57,127,136,13,109.0,19
+100,https://data.worldhappiness.report/images/flags_iso_3/COG.png,https://data.worldhappiness.report/country/COG,Congo,5.03,0.733,139,134,105,105,111,113,58,130,133,113,59.0,23
