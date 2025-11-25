@@ -26,7 +26,7 @@ If sunshine truly contributes to happiness, urban planners and architects could 
 
    ### (Optional) Population Density or Latitude Data
 
-    -To explore whether latitude or urbanization affects happiness.
+    - To explore whether latitude or urbanization affects happiness.
 
 ## Methods and Analysis Plan
 
